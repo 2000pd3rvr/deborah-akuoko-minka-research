@@ -277,3 +277,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
 _Last refreshed by dailyGit profile SEO on 2026-07-24 (UTC). Research-first layout preserved._
+
+## Easy-to-crawl profile
+
+- **Telegraph (plain HTML):** https://telegra.ph/Deborah-Akuoko-Minka--SPAD-sensing-and-machine-intelligence-Edinburgh-07-24-2
+
