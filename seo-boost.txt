@@ -1,7 +1,0 @@
-last_seo_boost=2026-08-11T09:20:20Z
-slug=deborah-akuoko-minka-research
-platforms=huggingface+github+pages
-prefer=wordpress
-hf=https://huggingface.co/0001AMA/deborah-akuoko-minka-research
-public=true
-purpose=machine-intelligence-technical-profile
