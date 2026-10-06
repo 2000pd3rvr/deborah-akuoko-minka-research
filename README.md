@@ -1,4 +1,3 @@
-
 # Deborah Akuoko Minka / Deborah Akuoko-Minka
 
 **Also known as:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
